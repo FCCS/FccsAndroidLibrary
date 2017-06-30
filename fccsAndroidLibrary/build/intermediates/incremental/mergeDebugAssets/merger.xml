@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ethen/Documents/AS_Project/FccsLibrary/fccsAndroidLibrary/src/main/assets"/><source path="/Users/ethen/Documents/AS_Project/FccsLibrary/fccsAndroidLibrary/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ethen/Documents/AS_Project/FccsLibrary/fccsAndroidLibrary/src/debug/assets"/></dataSet></merger>

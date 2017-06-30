@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.fccs.library.widget.numberprogress.NumberProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schema.android.com/apk/res-auto"
+    android:id="@+id/npb_number"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/lib_activity_margin"
+    custom:progress_max="100" />
