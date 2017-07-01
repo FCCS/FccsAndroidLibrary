@@ -7,7 +7,7 @@ It contains some utils
 
 ### Setup
 
-Add to app module *gradle.build* file
+Add to app module build.gradle file
 ```gradle
 dependencies {
     compile 'com.fccs.library:fccsAndroidLibrary:1.0'
